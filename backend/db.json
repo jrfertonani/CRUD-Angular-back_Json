@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "991b",
+      "name": "Caneta Bic Azul",
+      "price": "0,99"
+    },
+    {
+      "id": "916f",
+      "name": "Borracha",
+      "price": "1,10"
+    },
+    {
+      "id": "d48d",
+      "name": "sdfg",
+      "price": "034"
+    },
+    {
+      "id": "a2f1",
+      "name": "teste",
+      "price": "2"
+    },
+    {
+      "id": "598f",
+      "name": "sdfgdsfgds",
+      "price": "032423"
+    }
+  ]
+}
